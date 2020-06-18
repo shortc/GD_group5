@@ -1,5 +1,7 @@
 # Ground Break
 
+![Ground Break Character Demo](demo/demo.gif)
+
 ```
 **PREREQUISITES**
 
