@@ -1,3 +1,6 @@
+# Ground Break
+
+```
 **PREREQUISITES**
 
 - CMAKE (www.cmake.org)
@@ -52,3 +55,4 @@ Now that the Makefile has been succesfully generated, you can compile with 'make
 The above instructions will compile your executable with all debug information embedded and compiler optimizations minimized.  To compile a 'release' version, just create a subdirectory 'Release' instead of 'Debug' and follow the same instructions as above. Note: in release mode certain safety checks are disabled and 'assert' statement are ignored. Hence, it is recommended to test your code in 'Debug' mode, and only when everything works, compile it in the 'Release' mode.\
 
 If you want to use additional external libraries, you will need to add them to 'CMakeLists.txt' (line 39). Please refer to the CMake documentation for more information on how to include libraries to your project with CMake.
+```
